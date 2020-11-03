@@ -1,2 +1,2 @@
-# Chat-Storage-App-_-C-S
+# Chat and Storage Application
 Chat &amp; Storage Application in MEAN STACK 
