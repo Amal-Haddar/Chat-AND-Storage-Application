@@ -1,0 +1,14 @@
+{
+  "folders": [
+    {
+      "path": "StageApp-BackEnd"
+    },
+    {
+      "path": "StageApp-BackOffice"
+    },
+    {
+      "path": "StageApp-FrontOffice"
+    }
+  ],
+  "settings": {}
+}
